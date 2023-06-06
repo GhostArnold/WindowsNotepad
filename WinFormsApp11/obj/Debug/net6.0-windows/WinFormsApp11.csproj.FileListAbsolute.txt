@@ -1,0 +1,70 @@
+D:\different projects\VS projects\College WinForm\WinFormsApp11\WinFormsApp11\bin\Debug\net6.0-windows\WinFormsApp11.exe
+D:\different projects\VS projects\College WinForm\WinFormsApp11\WinFormsApp11\bin\Debug\net6.0-windows\WinFormsApp11.deps.json
+D:\different projects\VS projects\College WinForm\WinFormsApp11\WinFormsApp11\bin\Debug\net6.0-windows\WinFormsApp11.runtimeconfig.json
+D:\different projects\VS projects\College WinForm\WinFormsApp11\WinFormsApp11\bin\Debug\net6.0-windows\WinFormsApp11.dll
+D:\different projects\VS projects\College WinForm\WinFormsApp11\WinFormsApp11\bin\Debug\net6.0-windows\WinFormsApp11.pdb
+D:\different projects\VS projects\College WinForm\WinFormsApp11\WinFormsApp11\obj\Debug\net6.0-windows\WinFormsApp11.csproj.AssemblyReference.cache
+D:\different projects\VS projects\College WinForm\WinFormsApp11\WinFormsApp11\obj\Debug\net6.0-windows\WinFormsApp11.Form1.resources
+D:\different projects\VS projects\College WinForm\WinFormsApp11\WinFormsApp11\obj\Debug\net6.0-windows\WinFormsApp11.csproj.GenerateResource.cache
+D:\different projects\VS projects\College WinForm\WinFormsApp11\WinFormsApp11\obj\Debug\net6.0-windows\WinFormsApp11.GeneratedMSBuildEditorConfig.editorconfig
+D:\different projects\VS projects\College WinForm\WinFormsApp11\WinFormsApp11\obj\Debug\net6.0-windows\WinFormsApp11.AssemblyInfoInputs.cache
+D:\different projects\VS projects\College WinForm\WinFormsApp11\WinFormsApp11\obj\Debug\net6.0-windows\WinFormsApp11.AssemblyInfo.cs
+D:\different projects\VS projects\College WinForm\WinFormsApp11\WinFormsApp11\obj\Debug\net6.0-windows\WinFormsApp11.csproj.CoreCompileInputs.cache
+D:\different projects\VS projects\College WinForm\WinFormsApp11\WinFormsApp11\obj\Debug\net6.0-windows\WinFormsApp11.dll
+D:\different projects\VS projects\College WinForm\WinFormsApp11\WinFormsApp11\obj\Debug\net6.0-windows\refint\WinFormsApp11.dll
+D:\different projects\VS projects\College WinForm\WinFormsApp11\WinFormsApp11\obj\Debug\net6.0-windows\WinFormsApp11.pdb
+D:\different projects\VS projects\College WinForm\WinFormsApp11\WinFormsApp11\obj\Debug\net6.0-windows\WinFormsApp11.genruntimeconfig.cache
+D:\different projects\VS projects\College WinForm\WinFormsApp11\WinFormsApp11\obj\Debug\net6.0-windows\ref\WinFormsApp11.dll
+D:\Проекты vs c#\winform\WinFormsApp11\WinFormsApp11\bin\Debug\net6.0-windows\WinFormsApp11.exe
+D:\Проекты vs c#\winform\WinFormsApp11\WinFormsApp11\bin\Debug\net6.0-windows\WinFormsApp11.deps.json
+D:\Проекты vs c#\winform\WinFormsApp11\WinFormsApp11\bin\Debug\net6.0-windows\WinFormsApp11.runtimeconfig.json
+D:\Проекты vs c#\winform\WinFormsApp11\WinFormsApp11\bin\Debug\net6.0-windows\WinFormsApp11.dll
+D:\Проекты vs c#\winform\WinFormsApp11\WinFormsApp11\bin\Debug\net6.0-windows\WinFormsApp11.pdb
+D:\Проекты vs c#\winform\WinFormsApp11\WinFormsApp11\obj\Debug\net6.0-windows\WinFormsApp11.csproj.AssemblyReference.cache
+D:\Проекты vs c#\winform\WinFormsApp11\WinFormsApp11\obj\Debug\net6.0-windows\WinFormsApp11.Form1.resources
+D:\Проекты vs c#\winform\WinFormsApp11\WinFormsApp11\obj\Debug\net6.0-windows\WinFormsApp11.csproj.GenerateResource.cache
+D:\Проекты vs c#\winform\WinFormsApp11\WinFormsApp11\obj\Debug\net6.0-windows\WinFormsApp11.GeneratedMSBuildEditorConfig.editorconfig
+D:\Проекты vs c#\winform\WinFormsApp11\WinFormsApp11\obj\Debug\net6.0-windows\WinFormsApp11.AssemblyInfoInputs.cache
+D:\Проекты vs c#\winform\WinFormsApp11\WinFormsApp11\obj\Debug\net6.0-windows\WinFormsApp11.AssemblyInfo.cs
+D:\Проекты vs c#\winform\WinFormsApp11\WinFormsApp11\obj\Debug\net6.0-windows\WinFormsApp11.csproj.CoreCompileInputs.cache
+D:\Проекты vs c#\winform\WinFormsApp11\WinFormsApp11\obj\Debug\net6.0-windows\WinFormsApp11.dll
+D:\Проекты vs c#\winform\WinFormsApp11\WinFormsApp11\obj\Debug\net6.0-windows\refint\WinFormsApp11.dll
+D:\Проекты vs c#\winform\WinFormsApp11\WinFormsApp11\obj\Debug\net6.0-windows\WinFormsApp11.pdb
+D:\Проекты vs c#\winform\WinFormsApp11\WinFormsApp11\obj\Debug\net6.0-windows\WinFormsApp11.genruntimeconfig.cache
+D:\Проекты vs c#\winform\WinFormsApp11\WinFormsApp11\obj\Debug\net6.0-windows\ref\WinFormsApp11.dll
+D:\Проекты vs c#\winform\WinFormsApp11 — копия\WinFormsApp11\bin\Debug\net6.0-windows\WinFormsApp11.exe
+D:\Проекты vs c#\winform\WinFormsApp11 — копия\WinFormsApp11\bin\Debug\net6.0-windows\WinFormsApp11.deps.json
+D:\Проекты vs c#\winform\WinFormsApp11 — копия\WinFormsApp11\bin\Debug\net6.0-windows\WinFormsApp11.runtimeconfig.json
+D:\Проекты vs c#\winform\WinFormsApp11 — копия\WinFormsApp11\bin\Debug\net6.0-windows\WinFormsApp11.dll
+D:\Проекты vs c#\winform\WinFormsApp11 — копия\WinFormsApp11\bin\Debug\net6.0-windows\WinFormsApp11.pdb
+D:\Проекты vs c#\winform\WinFormsApp11 — копия\WinFormsApp11\obj\Debug\net6.0-windows\WinFormsApp11.csproj.AssemblyReference.cache
+D:\Проекты vs c#\winform\WinFormsApp11 — копия\WinFormsApp11\obj\Debug\net6.0-windows\WinFormsApp11.Form1.resources
+D:\Проекты vs c#\winform\WinFormsApp11 — копия\WinFormsApp11\obj\Debug\net6.0-windows\WinFormsApp11.csproj.GenerateResource.cache
+D:\Проекты vs c#\winform\WinFormsApp11 — копия\WinFormsApp11\obj\Debug\net6.0-windows\WinFormsApp11.GeneratedMSBuildEditorConfig.editorconfig
+D:\Проекты vs c#\winform\WinFormsApp11 — копия\WinFormsApp11\obj\Debug\net6.0-windows\WinFormsApp11.AssemblyInfoInputs.cache
+D:\Проекты vs c#\winform\WinFormsApp11 — копия\WinFormsApp11\obj\Debug\net6.0-windows\WinFormsApp11.AssemblyInfo.cs
+D:\Проекты vs c#\winform\WinFormsApp11 — копия\WinFormsApp11\obj\Debug\net6.0-windows\WinFormsApp11.csproj.CoreCompileInputs.cache
+D:\Проекты vs c#\winform\WinFormsApp11 — копия\WinFormsApp11\obj\Debug\net6.0-windows\WinFormsApp11.dll
+D:\Проекты vs c#\winform\WinFormsApp11 — копия\WinFormsApp11\obj\Debug\net6.0-windows\refint\WinFormsApp11.dll
+D:\Проекты vs c#\winform\WinFormsApp11 — копия\WinFormsApp11\obj\Debug\net6.0-windows\WinFormsApp11.pdb
+D:\Проекты vs c#\winform\WinFormsApp11 — копия\WinFormsApp11\obj\Debug\net6.0-windows\WinFormsApp11.genruntimeconfig.cache
+D:\Проекты vs c#\winform\WinFormsApp11 — копия\WinFormsApp11\obj\Debug\net6.0-windows\ref\WinFormsApp11.dll
+D:\Проекты vs c#\winform\WinFormsApp11 — копия\WinFormsApp11\obj\Debug\net6.0-windows\WinFormsApp11.Properties.Resources.resources
+D:\different projects\VS projects\College WinForm\WinFormsApp11 — копия\WinFormsApp11\bin\Debug\net6.0-windows\WinFormsApp11.exe
+D:\different projects\VS projects\College WinForm\WinFormsApp11 — копия\WinFormsApp11\bin\Debug\net6.0-windows\WinFormsApp11.deps.json
+D:\different projects\VS projects\College WinForm\WinFormsApp11 — копия\WinFormsApp11\bin\Debug\net6.0-windows\WinFormsApp11.runtimeconfig.json
+D:\different projects\VS projects\College WinForm\WinFormsApp11 — копия\WinFormsApp11\bin\Debug\net6.0-windows\WinFormsApp11.dll
+D:\different projects\VS projects\College WinForm\WinFormsApp11 — копия\WinFormsApp11\bin\Debug\net6.0-windows\WinFormsApp11.pdb
+D:\different projects\VS projects\College WinForm\WinFormsApp11 — копия\WinFormsApp11\obj\Debug\net6.0-windows\WinFormsApp11.csproj.AssemblyReference.cache
+D:\different projects\VS projects\College WinForm\WinFormsApp11 — копия\WinFormsApp11\obj\Debug\net6.0-windows\WinFormsApp11.Form1.resources
+D:\different projects\VS projects\College WinForm\WinFormsApp11 — копия\WinFormsApp11\obj\Debug\net6.0-windows\WinFormsApp11.Properties.Resources.resources
+D:\different projects\VS projects\College WinForm\WinFormsApp11 — копия\WinFormsApp11\obj\Debug\net6.0-windows\WinFormsApp11.csproj.GenerateResource.cache
+D:\different projects\VS projects\College WinForm\WinFormsApp11 — копия\WinFormsApp11\obj\Debug\net6.0-windows\WinFormsApp11.GeneratedMSBuildEditorConfig.editorconfig
+D:\different projects\VS projects\College WinForm\WinFormsApp11 — копия\WinFormsApp11\obj\Debug\net6.0-windows\WinFormsApp11.AssemblyInfoInputs.cache
+D:\different projects\VS projects\College WinForm\WinFormsApp11 — копия\WinFormsApp11\obj\Debug\net6.0-windows\WinFormsApp11.AssemblyInfo.cs
+D:\different projects\VS projects\College WinForm\WinFormsApp11 — копия\WinFormsApp11\obj\Debug\net6.0-windows\WinFormsApp11.csproj.CoreCompileInputs.cache
+D:\different projects\VS projects\College WinForm\WinFormsApp11 — копия\WinFormsApp11\obj\Debug\net6.0-windows\WinFormsApp11.dll
+D:\different projects\VS projects\College WinForm\WinFormsApp11 — копия\WinFormsApp11\obj\Debug\net6.0-windows\refint\WinFormsApp11.dll
+D:\different projects\VS projects\College WinForm\WinFormsApp11 — копия\WinFormsApp11\obj\Debug\net6.0-windows\WinFormsApp11.pdb
+D:\different projects\VS projects\College WinForm\WinFormsApp11 — копия\WinFormsApp11\obj\Debug\net6.0-windows\WinFormsApp11.genruntimeconfig.cache
+D:\different projects\VS projects\College WinForm\WinFormsApp11 — копия\WinFormsApp11\obj\Debug\net6.0-windows\ref\WinFormsApp11.dll
